@@ -1,0 +1,8 @@
+name: YAVUZ
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - opencv-contrib-python==4.8.1.78
